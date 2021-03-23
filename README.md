@@ -1,12 +1,29 @@
-## Hi There I'm Çağrıhan
+
+
+<h1 align='center'>
+  Hi there 👋 I'm Çağrıhan 👨‍💻
+</h1>
+<p align='center'>
+    Junior fullstack developer from Turkey
+</p>
 
 
 
-[![](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aydincagrihan/)
+<p align='center'>
+  
 
-[![](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/virtualnirvana)
+  <a href="https://www.linkedin.com/in/aydincagrihan/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/aydincagrihan/">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
 
-[![](https://img.shields.io/badge/Email-cagrihanaydin@gmail.com-blue)](mailto:cagrihanaydin@gmail.com) 
+
+
+
 
 
 
