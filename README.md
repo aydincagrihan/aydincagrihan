@@ -1,6 +1,6 @@
 
 <h1 align='center'>
-  Hi there 👋 I'm Çağrıhan 👨‍💻
+  Hi there 👋, I'm Çağrıhan 👨‍💻
 </h1>
 <p align='center'>
     Junior fullstack developer from Turkey
