@@ -3,7 +3,7 @@
   Hi there 👋, I'm Çağrıhan 👨‍💻
 </h1>
 <p align='center'>
-    Junior fullstack developer from Turkey
+    Junior Fullstack developer from Turkey
 </p>
 
 
